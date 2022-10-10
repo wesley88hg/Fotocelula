@@ -8,10 +8,10 @@
 
 |PCB|
 :---:
-|![PCB]![image](![image](https://user-images.githubusercontent.com/105087818/194922712-9fa0ee44-9126-42f5-b17e-d869211e7222.png))
+|![PCB]![image](https://user-images.githubusercontent.com/105087818/194922712-9fa0ee44-9126-42f5-b17e-d869211e7222.png)
 |
 
 |Visao 3D|
 :---:
-|![Visao 3D]![image](![image](https://user-images.githubusercontent.com/105087818/194922487-f7ec766a-2eda-4580-8c12-0d82a698660a.png))
+|![Visao 3D]![image](https://user-images.githubusercontent.com/105087818/194922487-f7ec766a-2eda-4580-8c12-0d82a698660a.png)
 |
